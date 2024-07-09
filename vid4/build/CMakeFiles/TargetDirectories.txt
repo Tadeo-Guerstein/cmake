@@ -1,0 +1,3 @@
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid4/build/CMakeFiles/12_TutCMake4.dir
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid4/build/CMakeFiles/edit_cache.dir
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid4/build/CMakeFiles/rebuild_cache.dir

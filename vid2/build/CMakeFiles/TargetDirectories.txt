@@ -1,0 +1,6 @@
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid2/build/CMakeFiles/hello.dir
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid2/build/CMakeFiles/edit_cache.dir
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid2/build/my_library/CMakeFiles/my_library.dir
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid2/build/my_library/CMakeFiles/edit_cache.dir
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid2/build/my_library/CMakeFiles/rebuild_cache.dir

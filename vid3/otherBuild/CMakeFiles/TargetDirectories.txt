@@ -1,0 +1,7 @@
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid3/otherBuild/CMakeFiles/ejecutable.dir
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid3/otherBuild/CMakeFiles/edit_cache.dir
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid3/otherBuild/CMakeFiles/rebuild_cache.dir
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid3/otherBuild/CMakeFiles/list_install_components.dir
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid3/otherBuild/CMakeFiles/install.dir
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid3/otherBuild/CMakeFiles/install/local.dir
+C:/Users/tadel/Documents/ISFT2024/Ingenieria/cmake-example/vid3/otherBuild/CMakeFiles/install/strip.dir
